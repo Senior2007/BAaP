@@ -1,0 +1,4 @@
+# ninja log v5
+295	321	1744724349369451193	libLibrary.dylib	f551ade13362eb0d
+0	295	1744724349342305662	CMakeFiles/Library.dir/library.cpp.o	ec631ad0cac4d07d
+0	47	1744726562045891849	build.ninja	71cc434b93b51bc3

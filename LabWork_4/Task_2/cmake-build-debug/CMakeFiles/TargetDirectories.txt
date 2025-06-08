@@ -1,0 +1,3 @@
+/Users/senior/Desktop/BSUIR/ОАиП/QT/LabWork_4/Task_2/cmake-build-debug/CMakeFiles/Task_2.dir
+/Users/senior/Desktop/BSUIR/ОАиП/QT/LabWork_4/Task_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/senior/Desktop/BSUIR/ОАиП/QT/LabWork_4/Task_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
